@@ -139,7 +139,9 @@ Superstore Profit Report
 
 Superstore Sales Dashboard
 
-(Add dashboard screenshots here)
+<img width="1319" height="805" alt="Screenshot 2025-12-09 151543" src="https://github.com/user-attachments/assets/012b2d96-6197-49bb-9913-a694026d8cf6" />
+<img width="1319" height="805" alt="Screenshot 2025-12-09 151543" src="https://github.com/user-attachments/assets/c1d98dd0-4469-4755-a6c2-1ca9ceb52131" />
+
 
 📚 Learning Outcomes
 
@@ -157,5 +159,5 @@ Data storytelling and visualization skills
 
 👤 Author
 
-Name: Vijayakumar V
+Name: Durga Eswari  V
 Project Type: Data Analytics / Power BI Dashboard
